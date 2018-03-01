@@ -1,0 +1,38 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   Intel
+    VRAM:     2112 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\FirstFPS\gra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\FirstFPS\gra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\FirstFPS\gra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\FirstFPS\gra_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\FirstFPS\gra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\FirstFPS\gra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\FirstFPS\gra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.112 seconds
+Platform assembly: D:\FirstFPS\gra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\FirstFPS\gra_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.645538 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21b8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 51.911602 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2576.
+Total: 1.639778 ms (FindLiveObjects: 0.482589 ms CreateObjectMapping: 0.069764 ms MarkObjects: 0.764205 ms  DeleteObjects: 0.321299 ms)
+
+Platform assembly: D:\FirstFPS\gra_Data\Managed\Boo.Lang.dll (this message is harmless)
